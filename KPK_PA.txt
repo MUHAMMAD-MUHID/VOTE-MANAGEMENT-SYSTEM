@@ -1,0 +1,5 @@
+78	Zara Malik	Clifton	Sickle	Pakistan Peoples Party
+56	Fahad Ahmed	Saddar	Tiger	Pakistan Muslim League-Nawaz
+34	Sarah Khan	Gulberg	Moon	Pakistan Tehreek-e-Insaf
+89	Kashif Raza	Faisal Town	Shield	Pakistan Peoples Party
+67	Fariha Aslam	Iqbal Town	Rose	Pakistan Muslim League-Nawaz				

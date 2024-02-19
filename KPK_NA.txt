@@ -1,0 +1,5 @@
+38	Hassan Raza	Garden	Mountain	Balochistan Awami Party
+39	Aamir Khan	Lyari	Star	Pakistan Peoples Party
+40	Sadia Ahmed	Orangi	Arrow	Pakistan Tehreek-e-Insaf
+41	Rizwan Ali	Malir Cantt	Lion	Pakistan Muslim League-Nawaz
+42	Sara Khan	North Karachi	Tiger	Muttahida Qaumi Movement

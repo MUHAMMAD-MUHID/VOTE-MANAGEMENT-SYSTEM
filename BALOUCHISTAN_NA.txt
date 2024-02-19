@@ -1,0 +1,5 @@
+33	Nazia Raza	Tariq Road	Lion	Pakistan Muslim League-Nawaz
+34	Kamran Ali	Shahrah-e-Faisal	Tiger	Muttahida Qaumi Movement
+35	Sana Khan	Bahadurabad	Book	Jamiat Ulema-e-Islam
+36	Imran Ahmed	Gulistan-e-Jauhar	Kite	Awami National Party
+37	Farah Ali	Saddar	Lantern	Pakistan Muslim League-Quaid

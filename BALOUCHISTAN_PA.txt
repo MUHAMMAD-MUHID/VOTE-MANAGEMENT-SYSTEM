@@ -1,0 +1,6 @@
+123	jhgfdsa	JHGFDS	JHGFD	JHGFDS
+76	Bilal Ahmed	Garden Town	Pen	Pakistan Muslim League-Nawaz
+54	Samina Farooq	Shadman	Mountain	Pakistan Tehreek-e-Insaf
+32	Usman Khalid	Bahria Town	Key	Pakistan Peoples Party
+65	Nida Shah	Allama Iqbal Town	Sun	Pakistan Muslim League-Nawaz
+87	Amir Sohail	Model Town	Shield	Pakistan Tehreek-e-Insaf

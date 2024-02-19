@@ -1,0 +1,5 @@
+28	Ayesha Raza	Malir	Kite	Awami National Party
+29	Zainab Hassan	PECHS	Lantern	Pakistan Muslim League-Quaid
+30	Bilal Ali	Korangi	Mountain	Balochistan Awami Party
+31	Sadia Khan	Karimabad	Star	Pakistan Peoples Party
+32	Fahad Ahmed	Nazimabad	Arrow	Pakistan Tehreek-e-Insaf

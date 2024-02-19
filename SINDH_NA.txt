@@ -1,0 +1,5 @@
+23	Ali Hassan	Gulshan	Star	Pakistan Peoples Party
+24	Ahmed Khan	Gulberg	Arrow	Pakistan Tehreek-e-Insaf
+25	Sara Ali	North Nazimabad	Lion	Pakistan Muslim League-Nawaz
+26	Fatima Khan	Defence	Tiger	Muttahida Qaumi Movement
+27	Usman Ahmed	Clifton	Book	Jamiat Ulema-e-Islam
